@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['movie2image.py'],
-             pathex=['C:\\Users\\East_\\Desktop\\movie2image'],
+             pathex=['C:\\Users\\East_\\Desktop\\movie2image_gui_app'],
              binaries=[],
              datas=[],
              hiddenimports=[],
